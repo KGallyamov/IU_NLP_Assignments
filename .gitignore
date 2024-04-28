@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 *.csv
 *.txt
+*.jsonl
+assignment_3/checkpoints
